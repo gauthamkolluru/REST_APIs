@@ -1,0 +1,15 @@
+{
+  "name": "rest_js",
+  "version": "1.0.0",
+  "description": "simple restful api",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello Gautham"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
